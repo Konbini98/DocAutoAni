@@ -1,1 +1,1 @@
-FROM
+FROM mlbt/autosubplease:latest
